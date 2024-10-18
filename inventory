@@ -1,0 +1,9 @@
+[web_servers]
+192.168.56.135 ansible_user=dldperez
+#ubuntu server1
+
+[db_servers]
+192.168.56.138 ansible_user=dldperez
+#centos server2
+
+
